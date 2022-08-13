@@ -1,0 +1,91 @@
+﻿<title>800 triệu đồng ủng_hộ bệnh_nhân nghèo</title>
+<editor>Vietlex team, 8-2016</editor>
+-DOCSTART-
+<s>				
+800	M	B-NP	O	O
+triệu	M	B-NP	O	O
+đồng	Nu	B-NP	O	O
+là	V	B-VP	O	O
+số	N	B-NP	O	O
+tiền	N	B-NP	O	O
+quyên_góp	V	B-VP	O	O
+được	R	O	O	O
+ngay	T	O	O	O
+trong	E	B-PP	O	O
+buổi	N	B-NP	O	O
+ra_mắt	V	B-VP	O	O
+chi_hội	N	B-NP	B-ORG	O
+bảo_trợ	V	I-NP	I-ORG	O
+bệnh_nhân	N	I-NP	I-ORG	O
+nghèo	A	I-NP	I-ORG	O
+Thiện_Nhân	NNP	I-NP	I-ORG	O
+vào	E	B-PP	O	O
+sáng	N	B-NP	O	O
+21-3	M	B-NP	O	O
+,	CH	O	O	O
+tại	E	B-PP	O	O
+khách_sạn	N	B-NP	B-LOC	O
+Majestic	NNP	I-NP	I-LOC	O
+,	CH	O	O	O
+TP.	Ny	B-NP	B-LOC	O
+HCM	NNP	I-NP	I-LOC	O
+.	CH	O	O	O
+</s>				
+<s>				
+Đây	P	B-NP	O	O
+là	V	B-VP	O	O
+chi_hội	N	B-NP	O	O
+thứ	N	B-NP	O	O
+24	M	B-NP	O	O
+trực_thuộc	V	B-VP	O	O
+Hội	N	B-NP	B-ORG	O
+Bảo_trợ	V	I-NP	I-ORG	O
+bệnh_nhân	N	I-NP	I-ORG	O
+nghèo	A	I-NP	I-ORG	O
+TP.	Ny	I-NP	I-ORG	B-LOC
+HCM	NNP	I-NP	I-ORG	I-LOC
+,	CH	O	O	O
+do	E	B-PP	O	O
+gia_đình	N	B-NP	O	O
+NSƯT	Ny	B-NP	O	O
+Lý	NNP	B-NP	B-PER	O
+Huỳnh	NNP	I-NP	I-PER	O
+cùng	Cc	O	O	O
+một_số	L	B-NP	O	O
+nghệ_sĩ	N	B-NP	O	O
+,	CH	O	O	O
+cá_nhân	N	B-NP	O	O
+,	CH	O	O	O
+doanh_nhân	N	B-NP	O	O
+giàu	A	B-AP	O	O
+lòng	N	B-NP	O	O
+nhân_ái	N	B-NP	O	O
+tự_nguyện	V	B-VP	O	O
+tham_gia	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Chi_hội	N	B-NP	B-ORG	O
+Thiện	NNP	I-NP	I-ORG	O
+Nhân	NNP	I-NP	I-ORG	O
+cũng	R	O	O	O
+đã	R	O	O	O
+ra_mắt	V	B-VP	O	O
+ban_chấp_hành	N	B-NP	O	O
+với	E	B-PP	O	O
+19	M	B-NP	O	O
+thành_viên	N	B-NP	O	O
+do	E	B-PP	O	O
+bà	Ns	B-NP	O	O
+Lê	NNP	B-NP	B-PER	O
+Thị	NNP	I-NP	I-PER	O
+Vân	NNP	I-NP	I-PER	O
+nguyên	R	O	O	O
+phó_chủ_tịch	N	B-NP	O	O
+UBND	Ny	B-NP	B-ORG	O
+TP	Ny	I-NP	I-ORG	B-LOC
+HCM	NNP	I-NP	I-ORG	I-LOC
+là	V	B-VP	O	O
+chủ_tịch	N	B-NP	O	O
+.	CH	O	O	O
+</s>				

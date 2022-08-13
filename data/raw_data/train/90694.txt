@@ -1,0 +1,2097 @@
+﻿<title>Có một người con_gái tuổi 20.</title>
+<editor>Vietlex team, 8-2016</editor>
+-DOCSTART-
+<s>				
+Chị	Ns	B-NP	O	O
+đã	R	O	O	O
+chết	V	B-VP	O	O
+như	C	O	O	O
+chị	Ns	B-NP	O	O
+đã	R	O	O	O
+sống	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nhật_ký	N	B-NP	O	O
+chấm_dứt	V	B-VP	O	O
+ở	E	B-PP	O	O
+ngày	N	B-NP	O	O
+20-6-1970	M	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Hai	M	B-NP	O	O
+ngày	N	B-NP	O	O
+sau	N	B-NP	O	O
+,	CH	O	O	O
+ngày	N	B-NP	O	O
+22-6-1970	M	B-NP	O	O
+,	CH	O	O	O
+chị	N	B-NP	O	O
+tôi	P	B-NP	O	O
+hi_sinh	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Mãi	R	O	O	O
+mấy	L	B-NP	O	O
+tháng	N	B-NP	O	O
+sau	N	B-NP	O	O
+gia_đình	N	B-NP	O	O
+tôi	P	B-NP	O	O
+mới	R	O	O	O
+biết	V	B-VP	O	O
+tin	N	B-NP	O	O
+dữ	A	B-AP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Hôm	N	B-NP	O	O
+đó	P	B-NP	O	O
+là	V	B-VP	O	O
+một	M	B-NP	O	O
+ngày	N	B-NP	O	O
+đầu	N	B-NP	O	O
+đông	N	B-NP	O	O
+,	CH	O	O	O
+có	V	B-VP	O	O
+mấy	L	B-NP	O	O
+người	Ns	B-NP	O	O
+khách	N	B-NP	O	O
+đến	V	B-VP	O	O
+gặp	V	B-VP	O	O
+gia_đình	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nỗi	N	B-NP	O	O
+đau	A	B-AP	O	O
+người	Ns	B-NP	O	O
+mẹ	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Mẹ	N	B-NP	O	O
+tôi	P	B-NP	O	O
+ngã_vật	V	B-VP	O	O
+xuống	V	B-VP	O	O
+giường	N	B-NP	O	O
+,	CH	O	O	O
+lặng	V	B-VP	O	O
+đi	T	O	O	O
+không	R	O	O	O
+nói	V	B-VP	O	O
+được	R	O	O	O
+câu	N	B-NP	O	O
+nào	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nhưng	C	O	O	O
+mẹ	N	B-NP	O	O
+tôi	P	B-NP	O	O
+không	R	O	O	O
+khóc	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Mẹ	N	B-NP	O	O
+tôi	P	B-NP	O	O
+là	V	B-VP	O	O
+một	M	B-NP	O	O
+người	Ns	B-NP	O	O
+phụ_nữ	N	B-NP	O	O
+ít	A	B-AP	O	O
+nói	V	B-VP	O	O
+,	CH	O	O	O
+đầy	A	B-AP	O	O
+nghị_lực	N	B-NP	O	O
+và	Cc	O	O	O
+đầy	A	B-AP	O	O
+lý_trí	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Có_lẽ	R	O	O	O
+nỗi	N	B-NP	O	O
+đau	A	B-AP	O	O
+đã	R	O	O	O
+kết	V	B-VP	O	O
+lại	V	B-VP	O	O
+trong	E	B-PP	O	O
+tim	N	B-NP	O	O
+thành	V	B-VP	O	O
+một	M	B-NP	O	O
+khối	N	B-NP	O	O
+rắn_chắc	A	B-AP	O	O
+,	CH	O	O	O
+kể	V	B-VP	O	O
+từ	E	B-PP	O	O
+đó	P	B-NP	O	O
+mẹ	N	B-NP	O	O
+tôi	P	B-NP	O	O
+càng	R	O	O	O
+ít	A	B-AP	O	O
+nói	V	B-VP	O	O
+và	Cc	O	O	O
+hầu_như	R	O	O	O
+tôi	P	B-NP	O	O
+không	R	O	O	O
+thấy	V	B-VP	O	O
+mẹ	N	B-NP	O	O
+tôi	P	B-NP	O	O
+cười	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Giấy	N	B-NP	O	O
+báo_tử	V	B-VP	O	O
+không	R	O	O	O
+nói	V	B-VP	O	O
+rõ	A	B-AP	O	O
+hoàn_cảnh	N	B-NP	O	O
+chị	N	B-NP	O	O
+tôi	P	B-NP	O	O
+hi_sinh	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Đồng_đội	N	B-NP	O	O
+cũng	R	O	O	O
+mỗi	L	B-NP	O	O
+người	N	B-NP	O	O
+nói	V	B-VP	O	O
+một	M	B-NP	O	O
+khác	A	B-AP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Người	Ns	B-NP	O	O
+thì	C	O	O	O
+kể	V	B-VP	O	O
+trên	E	B-PP	O	O
+đường	N	B-NP	O	O
+về	V	B-VP	O	O
+đồng_bằng	N	B-NP	O	O
+xin	V	B-VP	O	O
+tiếp_tế	V	B-VP	O	O
+cho	E	B-PP	O	O
+bệnh_xá	N	B-NP	O	O
+,	CH	O	O	O
+chị	N	B-NP	O	O
+tôi	P	B-NP	O	O
+gặp	V	B-VP	O	O
+ổ	N	B-NP	O	O
+phục_kích	V	B-VP	O	O
+của	E	B-PP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+,	CH	O	O	O
+chị	Ns	B-NP	O	O
+báo_động	V	B-VP	O	O
+cho	E	B-PP	O	O
+đồng_đội	N	B-NP	O	O
+chạy	V	B-VP	O	O
+thoát	V	B-VP	O	O
+và	Cc	O	O	O
+ở	V	B-VP	O	O
+lại	V	B-VP	O	O
+yểm_trợ	V	B-VP	O	O
+rồi	C	O	O	O
+hi_sinh	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Người	Ns	B-NP	O	O
+khác	A	B-AP	O	O
+kể	V	B-VP	O	O
+bệnh_xá	N	B-NP	O	O
+bị	V	B-VP	O	O
+địch	N	B-NP	O	O
+tập_kích	V	B-VP	O	O
+,	CH	O	O	O
+chị	Ns	B-NP	O	O
+hi_sinh	V	B-VP	O	O
+để	E	B-PP	O	O
+bảo_vệ	V	B-VP	O	O
+thương_binh	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Có	V	B-VP	O	O
+người	N	B-NP	O	O
+lại	R	O	O	O
+kể	V	B-VP	O	O
+toán	Ne	B-NP	O	O
+công_tác	V	B-VP	O	O
+của	E	B-PP	O	O
+chị	Ns	B-NP	O	O
+có	V	B-VP	O	O
+bốn	M	B-NP	O	O
+người	N	B-NP	O	O
+,	CH	O	O	O
+hi_sinh	V	B-VP	O	O
+ba	M	B-NP	O	O
+,	CH	O	O	O
+chỉ	R	O	O	O
+còn	V	B-VP	O	O
+một	M	B-NP	O	O
+người	N	B-NP	O	O
+thoát	V	B-VP	O	O
+,	CH	O	O	O
+đó	P	B-NP	O	O
+là	V	B-VP	O	O
+chị	Ns	B-NP	O	O
+y_tá	N	B-NP	O	O
+Nguyễn	NNP	B-NP	B-PER	O
+Thị	NNP	I-NP	I-PER	O
+Rô	NNP	I-NP	I-PER	O
+.	CH	O	O	O
+</s>				
+<s>				
+Cuộc	N	B-NP	O	O
+chiến_tranh	N	B-NP	O	O
+quá	R	O	O	O
+khốc_liệt	A	B-AP	O	O
+,	CH	O	O	O
+sự	N	B-NP	O	O
+hi_sinh	V	B-VP	O	O
+diễn	V	B-VP	O	O
+ra	V	B-VP	O	O
+từng	P	B-NP	O	O
+ngày	N	B-NP	O	O
+,	CH	O	O	O
+từng	P	B-NP	O	O
+giờ	N	B-NP	O	O
+,	CH	O	O	O
+chị	N	B-NP	O	O
+tôi	P	B-NP	O	O
+hoà_lẫn	V	B-VP	O	O
+trong	E	B-PP	O	O
+muôn	M	B-NP	O	O
+ngàn	M	B-NP	O	O
+người	N	B-NP	O	O
+đã	R	O	O	O
+lặng_lẽ	A	B-AP	O	O
+hi_sinh	V	B-VP	O	O
+vì	E	B-PP	O	O
+Tổ_quốc	N	B-NP	O	O
+,	CH	O	O	O
+người_ta	N	B-NP	O	O
+có_thể	R	O	O	O
+lẫn_lộn	V	B-VP	O	O
+trường_hợp	N	B-NP	O	O
+này	P	B-NP	O	O
+với	E	B-PP	O	O
+trường_hợp	N	B-NP	O	O
+khác	A	B-AP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Có	V	B-VP	O	O
+một	M	B-NP	O	O
+điều	N	B-NP	O	O
+chắc_chắn	A	B-AP	O	O
+là	V	B-VP	O	O
+chị	N	B-NP	O	O
+tôi	P	B-NP	O	O
+hi_sinh	V	B-VP	O	O
+trong	E	B-PP	O	O
+tư_thế	N	B-NP	O	O
+đương_đầu	V	B-VP	O	O
+với	E	B-PP	O	O
+giặc	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Một	M	B-NP	O	O
+vết	N	B-NP	O	O
+đạn	N	B-NP	O	O
+sâu_hoắm	A	B-AP	O	O
+,	CH	O	O	O
+ghim	V	B-VP	O	O
+ngay	T	O	O	O
+giữa	E	B-PP	O	O
+trán	N	B-NP	O	O
+chị	Ns	B-NP	O	O
+-	CH	O	O	O
+điều	N	B-NP	O	O
+này	P	B-NP	O	O
+khi	N	B-NP	O	O
+mẹ	N	B-NP	O	O
+và	Cc	O	O	O
+tôi	P	B-NP	O	O
+lên	V	B-VP	O	O
+vùng	N	B-NP	O	O
+núi	N	B-NP	B-LOC	O
+Ba_Tơ	NNP	I-NP	I-LOC	O
+để	E	B-PP	O	O
+đưa	V	B-VP	O	O
+chị	Ns	B-NP	O	O
+về	V	B-VP	O	O
+,	CH	O	O	O
+tôi	P	B-NP	O	O
+đã	R	O	O	O
+nhìn	V	B-VP	O	O
+thấy	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Anh	Ns	B-NP	O	O
+Tâm	NNP	B-NP	B-PER	O
+,	CH	O	O	O
+bí_thư	N	B-NP	O	O
+Huyện_uỷ	N	B-NP	B-ORG	O
+Đức_Phổ	NNP	I-NP	I-ORG	B-LOC
+hiện_nay	N	B-NP	O	O
+,	CH	O	O	O
+cho	V	B-VP	O	O
+biết	V	B-VP	O	O
+anh	Ns	B-NP	O	O
+được	R	O	O	O
+nghe	V	B-VP	O	O
+kể	V	B-VP	O	O
+lại	V	B-VP	O	O
+trước	E	B-PP	O	O
+khi	N	B-NP	O	O
+hi_sinh	V	B-VP	O	O
+chị	Ns	B-NP	O	O
+còn	R	O	O	O
+hô	V	B-VP	O	O
+vang	A	B-AP	O	O
+:	CH	O	O	O
+"	CH	O	O	O
+Hồ	NNP	B-NP	B-PER	O
+Chí	NNP	I-NP	I-PER	O
+Minh	NNP	I-NP	I-PER	O
+muôn	L	B-NP	O	O
+năm	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Đả_đảo	V	B-VP	O	O
+đế_quốc	N	B-NP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+"	CH	O	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Tôi	P	B-NP	O	O
+cũng	R	O	O	O
+không	R	O	O	O
+rõ	V	B-VP	O	O
+đó	P	B-NP	O	O
+có	V	B-VP	O	O
+phải	A	B-AP	O	O
+là	C	O	O	O
+sự_thật	N	B-NP	O	O
+,	CH	O	O	O
+hay	Cc	O	O	O
+chỉ	R	O	O	O
+là	V	B-VP	O	O
+một	M	B-NP	O	O
+huyền_thoại	N	B-NP	O	O
+mà	C	O	O	O
+người	Ns	B-NP	O	O
+dân	N	B-NP	O	O
+Đức_Phổ	NNP	B-NP	B-LOC	O
+yêu_thương	V	B-VP	O	O
+chị	Ns	B-NP	O	O
+kể	V	B-VP	O	O
+lại	V	B-VP	O	O
+cho	E	B-PP	O	O
+thế_hệ	N	B-NP	O	O
+sau	N	B-NP	O	O
+nghe	V	B-VP	O	O
+về	E	B-PP	O	O
+một	M	B-NP	O	O
+nữ	N	B-NP	O	O
+bác_sĩ	N	B-NP	O	O
+người	Ns	B-NP	O	O
+Hà_Nội	NNP	B-NP	B-LOC	O
+trẻ_trung	A	B-AP	O	O
+,	CH	O	O	O
+xinh_đẹp	A	B-AP	O	O
+đã	R	O	O	O
+chiến_đấu	V	B-VP	O	O
+và	Cc	O	O	O
+nằm	V	B-VP	O	O
+lại	V	B-VP	O	O
+trên	E	B-PP	O	O
+quê_hương	N	B-NP	O	O
+họ	P	B-NP	O	O
+-	CH	O	O	O
+trên	E	B-PP	O	O
+mảnh	Nc	B-NP	O	O
+đất	N	B-NP	O	O
+Đức_Phổ	NNP	B-NP	B-LOC	O
+mà	C	O	O	O
+chị	Ns	B-NP	O	O
+đã	R	O	O	O
+coi	V	B-VP	O	O
+là	C	O	O	O
+quê_hương	N	B-NP	O	O
+thứ	N	B-NP	O	O
+hai	M	B-NP	O	O
+của	E	B-PP	O	O
+mình	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Câu_chuyện	N	B-NP	O	O
+của	E	B-PP	O	O
+người	Ns	B-NP	O	O
+cựu_chiến_binh	N	B-NP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+.	CH	O	O	O
+</s>				
+<s>				
+Sau	N	B-NP	O	O
+bao	N	B-NP	O	O
+đêm	N	B-NP	O	O
+Fred	NNP	B-NP	B-PER	O
+thức	V	B-VP	O	O
+cùng	A	B-AP	O	O
+Nguyễn	NNP	B-NP	B-PER	O
+Trung	NNP	I-NP	I-PER	O
+Hiếu	NNP	I-NP	I-PER	O
+để	E	B-PP	O	O
+đọc	V	B-VP	O	O
+cuốn	Nc	B-NP	O	O
+nhật_ký	N	B-NP	O	O
+thứ	N	B-NP	O	O
+nhất	A	B-AP	O	O
+,	CH	O	O	O
+cuốn	Nc	B-NP	O	O
+nhật_ký	N	B-NP	O	O
+cùng	Cc	O	O	O
+người	N	B-NP	O	O
+viết	V	B-VP	O	O
+nên	R	O	O	O
+nó	P	B-NP	O	O
+đã	R	O	O	O
+trở_thành	V	B-VP	O	O
+điều	N	B-NP	O	O
+bí_mật	A	B-AP	O	O
+riêng	A	B-AP	O	O
+của	E	B-PP	O	O
+hai	M	B-NP	O	O
+người	Ns	B-NP	O	O
+lính	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Tháng	N	B-NP	O	O
+mười	M	B-NP	O	O
+năm	N	B-NP	O	O
+ấy	P	B-NP	O	O
+,	CH	O	O	O
+Fred	NNP	B-NP	B-PER	O
+lại	R	O	O	O
+có	V	B-VP	O	O
+được	R	O	O	O
+một	M	B-NP	O	O
+thông_tin	N	B-NP	O	O
+về	E	B-PP	O	O
+tác_giả	N	B-NP	O	O
+cuốn	Nc	B-NP	O	O
+nhật_ký	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Một	M	B-NP	O	O
+đêm	N	B-NP	O	O
+,	CH	O	O	O
+trong	E	B-PP	O	O
+khi	N	B-NP	O	O
+chờ	V	B-VP	O	O
+trận	N	B-NP	O	O
+đánh	V	B-VP	O	O
+mở_màn	V	B-VP	O	O
+,	CH	O	O	O
+Fred	NNP	B-NP	B-PER	O
+ngồi	V	B-VP	O	O
+cạnh	N	B-NP	O	O
+một	M	B-NP	O	O
+người	Ns	B-NP	O	O
+lính	N	B-NP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+.	CH	O	O	O
+</s>				
+<s>				
+Hai	M	B-NP	O	O
+người	N	B-NP	O	O
+kể	V	B-VP	O	O
+lại	V	B-VP	O	O
+cho	E	B-PP	O	O
+nhau	N	B-NP	O	O
+nghe	V	B-VP	O	O
+những	L	B-NP	O	O
+trận	N	B-NP	O	O
+đánh	V	B-VP	O	O
+mà	C	O	O	O
+họ	P	B-NP	O	O
+đã	R	O	O	O
+trải	V	B-VP	O	O
+qua	R	O	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Người	Ns	B-NP	O	O
+lính	N	B-NP	O	O
+nọ	P	B-NP	O	O
+kể	V	B-VP	O	O
+cho	E	B-PP	O	O
+Fred	NNP	B-NP	B-PER	O
+nghe	V	B-VP	O	O
+một	M	B-NP	O	O
+trận	N	B-NP	O	O
+đánh	V	B-VP	O	O
+lạ_lùng	A	B-AP	O	O
+mà	C	O	O	O
+anh	Ns	B-NP	O	O
+ta	P	B-NP	O	O
+đã	R	O	O	O
+tham_dự	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Đó	P	B-NP	O	O
+là	V	B-VP	O	O
+một	M	B-NP	O	O
+trận	N	B-NP	O	O
+đánh	V	B-VP	O	O
+không	R	O	O	O
+cân	A	B-AP	O	O
+sức	N	B-NP	O	O
+giữa	E	B-PP	O	O
+120	M	B-NP	O	O
+lính	N	B-NP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+với	E	B-PP	O	O
+một	M	B-NP	O	O
+người	Ns	B-NP	O	O
+phụ_nữ	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Anh	Ns	B-NP	O	O
+ta	P	B-NP	O	O
+tả	V	B-VP	O	O
+lại	V	B-VP	O	O
+người	Ns	B-NP	O	O
+con_gái	N	B-NP	O	O
+nhỏ_nhắn	A	B-AP	O	O
+với	E	B-PP	O	O
+chiếc	Nc	B-NP	O	O
+túi	N	B-NP	O	O
+vải	N	B-NP	O	O
+bạt	N	B-NP	O	O
+trên	E	B-PP	O	O
+người	N	B-NP	O	O
+,	CH	O	O	O
+trong	E	B-PP	O	O
+đựng	V	B-VP	O	O
+vài	L	B-NP	O	O
+quyển	Nc	B-NP	O	O
+sổ	N	B-NP	O	O
+nhỏ	A	B-AP	O	O
+có	V	B-VP	O	O
+vẽ	V	B-VP	O	O
+những	L	B-NP	O	O
+sơ_đồ	N	B-NP	O	O
+vết_thương	N	B-NP	O	O
+và	Cc	O	O	O
+phác_đồ	N	B-NP	O	O
+điều_trị	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Fred	NNP	B-NP	B-PER	O
+sững_sờ	A	B-AP	O	O
+hiểu	V	B-VP	O	O
+rằng	C	O	O	O
+anh	Ns	B-NP	O	O
+đang	R	O	O	O
+được	V	B-VP	O	O
+nghe	V	B-VP	O	O
+kể	V	B-VP	O	O
+về	E	B-PP	O	O
+những	L	B-NP	O	O
+giây_phút	N	B-NP	O	O
+cuối_cùng	A	B-AP	O	O
+của	E	B-PP	O	O
+tác_giả	N	B-NP	O	O
+cuốn	Nc	B-NP	O	O
+nhật_ký	N	B-NP	O	O
+đã	R	O	O	O
+ám_ảnh	V	B-VP	O	O
+anh	Ns	B-NP	O	O
+mấy	L	B-NP	O	O
+tháng	N	B-NP	O	O
+nay	P	B-NP	O	O
+,	CH	O	O	O
+liệu	V	B-VP	O	O
+đó	P	B-NP	O	O
+có	V	B-VP	O	O
+phải	A	B-AP	O	O
+là	C	O	O	O
+sự_thật	N	B-NP	O	O
+?	CH	O	O	O
+</s>				
+<s>				
+Suốt	A	B-AP	O	O
+bao_nhiêu	P	B-NP	O	O
+năm	N	B-NP	O	O
+Fred	NNP	B-NP	B-PER	O
+băn_khoăn	A	B-AP	O	O
+với	E	B-PP	O	O
+ý_nghĩ	N	B-NP	O	O
+ấy	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Sau	N	B-NP	O	O
+khi	N	B-NP	O	O
+liên_lạc	V	B-VP	O	O
+được	R	O	O	O
+với	E	B-PP	O	O
+gia_đình	N	B-NP	O	O
+tôi	P	B-NP	O	O
+,	CH	O	O	O
+Fred	NNP	B-NP	B-PER	O
+viết	V	B-VP	O	O
+cho	E	B-PP	O	O
+mẹ	N	B-NP	O	O
+tôi	P	B-NP	O	O
+bức	Nc	B-NP	O	O
+thư	N	B-NP	O	O
+sau	N	B-NP	O	O
+:	CH	O	O	O
+20	M	B-NP	O	O
+g	Nu	B-NP	O	O
+27	M	B-NP	O	O
+,	CH	O	O	O
+chủ_nhật	N	B-NP	O	O
+1-5-2005	M	B-NP	O	O
+Thưa	V	B-VP	O	O
+bà	Ns	B-NP	O	O
+Trâm	NNP	B-NP	B-PER	O
+.	CH	O	O	O
+</s>				
+<s>				
+Tôi	P	B-NP	O	O
+mong	V	B-VP	O	O
+rằng	C	O	O	O
+thư	N	B-NP	O	O
+này	P	B-NP	O	O
+sẽ	R	O	O	O
+không	R	O	O	O
+đem	V	B-VP	O	O
+đến	E	B-PP	O	O
+cho	E	B-PP	O	O
+bà	Ns	B-NP	O	O
+nỗi	N	B-NP	O	O
+buồn	A	B-AP	O	O
+mà	C	O	O	O
+chỉ	R	O	O	O
+là	V	B-VP	O	O
+niềm	N	B-NP	O	O
+tự_hào	A	B-AP	O	O
+của	E	B-PP	O	O
+một	M	B-NP	O	O
+người	Ns	B-NP	O	O
+mẹ	N	B-NP	O	O
+đã	R	O	O	O
+sinh	V	B-VP	O	O
+ra	V	B-VP	O	O
+một	M	B-NP	O	O
+người	Ns	B-NP	O	O
+con_gái	N	B-NP	O	O
+rất	R	O	O	O
+đặc_biệt	A	B-AP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Tôi	P	B-NP	O	O
+cần	V	B-VP	O	O
+phải	V	B-VP	O	O
+nói	V	B-VP	O	O
+lại	V	B-VP	O	O
+với	E	B-PP	O	O
+bà	Ns	B-NP	O	O
+điều	N	B-NP	O	O
+mà	C	O	O	O
+bao	N	B-NP	O	O
+năm	N	B-NP	O	O
+qua	V	B-VP	O	O
+tôi	P	B-NP	O	O
+vẫn	R	O	O	O
+tin	V	B-VP	O	O
+:	CH	O	O	O
+đó	P	B-NP	O	O
+là	V	B-VP	O	O
+trường_hợp	N	B-NP	O	O
+hi_sinh	V	B-VP	O	O
+của	E	B-PP	O	O
+con_gái	N	B-NP	O	O
+bà	Ns	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Tôi	P	B-NP	O	O
+đang	R	O	O	O
+ngồi	V	B-VP	O	O
+chờ	V	B-VP	O	O
+một	M	B-NP	O	O
+trận	N	B-NP	O	O
+đánh	V	B-VP	O	O
+cùng	A	B-AP	O	O
+một	M	B-NP	O	O
+đơn_vị	N	B-NP	O	O
+lính	N	B-NP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+.	CH	O	O	O
+</s>				
+<s>				
+Ngồi	V	B-VP	O	O
+bên	N	B-NP	O	O
+cạnh	N	B-NP	O	O
+tôi	P	B-NP	O	O
+là	V	B-VP	O	O
+một	M	B-NP	O	O
+người	Ns	B-NP	O	O
+lính	N	B-NP	O	O
+và	Cc	O	O	O
+chúng_tôi	P	B-NP	O	O
+nói	V	B-VP	O	O
+với	E	B-PP	O	O
+nhau	N	B-NP	O	O
+về	E	B-PP	O	O
+những	L	B-NP	O	O
+trận	N	B-NP	O	O
+đánh	V	B-VP	O	O
+đã	R	O	O	O
+từng	R	O	O	O
+tham_dự	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Người	Ns	B-NP	O	O
+lính	N	B-NP	O	O
+đó	P	B-NP	O	O
+kể	V	B-VP	O	O
+cho	E	B-PP	O	O
+tôi	P	B-NP	O	O
+nghe	V	B-VP	O	O
+về	E	B-PP	O	O
+một	M	B-NP	O	O
+trận	N	B-NP	O	O
+chiến_đấu	V	B-VP	O	O
+lạ_lùng	A	B-AP	O	O
+giữa	E	B-PP	O	O
+đơn_vị	N	B-NP	O	O
+của	E	B-PP	O	O
+anh	Ns	B-NP	O	O
+ta	P	B-NP	O	O
+gồm	V	B-VP	O	O
+120	M	B-NP	O	O
+người	Ns	B-NP	O	O
+đàn_ông	N	B-NP	O	O
+với	Cc	O	O	O
+một	M	B-NP	O	O
+người	Ns	B-NP	O	O
+phụ_nữ	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Đơn_vị	N	B-NP	O	O
+của	E	B-PP	O	O
+anh	Ns	B-NP	O	O
+ta	P	B-NP	O	O
+gặp	V	B-VP	O	O
+nhiều	A	B-AP	O	O
+lều	N	B-NP	O	O
+trại	N	B-NP	O	O
+trong	E	B-PP	O	O
+rừng	N	B-NP	O	O
+sâu	A	B-AP	O	O
+trên	E	B-PP	O	O
+vùng	N	B-NP	O	O
+núi	N	B-NP	O	O
+phía	N	B-NP	O	O
+tây	N	B-NP	O	O
+huyện	N	B-NP	B-LOC	O
+Đức_Phổ	NNP	I-NP	I-LOC	O
+.	CH	O	O	O
+</s>				
+<s>				
+Ngay_lập_tức	R	O	O	O
+có	V	B-VP	O	O
+một	M	B-NP	O	O
+người	N	B-NP	O	O
+nổ	V	B-VP	O	O
+súng	N	B-NP	O	O
+vào	E	B-PP	O	O
+họ	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Người	Ns	B-NP	O	O
+lính	N	B-NP	O	O
+thấy	V	B-VP	O	O
+rõ	A	B-AP	O	O
+nhiều	A	B-AP	O	O
+người	Ns	B-NP	O	O
+đang	R	O	O	O
+chạy	V	B-VP	O	O
+trong	E	B-PP	O	O
+rừng	N	B-NP	O	O
+để	E	B-PP	O	O
+trốn	V	B-VP	O	O
+thoát	V	B-VP	O	O
+và	Cc	O	O	O
+muốn	V	B-VP	O	O
+bắt	V	B-VP	O	O
+họ	P	B-NP	O	O
+,	CH	O	O	O
+vì_thế	C	O	O	O
+họ	P	B-NP	O	O
+kêu_gọi	V	B-VP	O	O
+người	N	B-NP	O	O
+đang	R	O	O	O
+bắn	V	B-VP	O	O
+hãy	R	O	O	O
+đầu_hàng	V	B-VP	O	O
+,	CH	O	O	O
+nhưng	C	O	O	O
+đáp	V	B-VP	O	O
+lại	V	B-VP	O	O
+lời	N	B-NP	O	O
+kêu_gọi	V	B-VP	O	O
+đầu_hàng	V	B-VP	O	O
+là	V	B-VP	O	O
+thêm	V	B-VP	O	O
+rất	R	O	O	O
+nhiều	A	B-AP	O	O
+viên	Nc	B-NP	O	O
+đạn	N	B-NP	O	O
+bắn	V	B-VP	O	O
+vào	E	B-PP	O	O
+họ	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Đây	P	B-NP	O	O
+là	V	B-VP	O	O
+một	M	B-NP	O	O
+người	N	B-NP	O	O
+rất	R	O	O	O
+anh_hùng	A	B-AP	O	O
+bởi_vì	E	B-PP	O	O
+lính	N	B-NP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+được	V	B-VP	O	O
+trang_bị	V	B-VP	O	O
+rất	R	O	O	O
+nhiều	A	B-AP	O	O
+vũ_khí	V	B-VP	O	O
+vậy_mà	C	O	O	O
+phải	C	O	O	O
+khá	A	B-AP	O	O
+lâu	A	B-AP	O	O
+mới	R	O	O	O
+có_thể	R	O	O	O
+chặn	V	B-VP	O	O
+lại	V	B-VP	O	O
+một	M	B-NP	O	O
+tay	N	B-NP	O	O
+súng	N	B-NP	O	O
+duy_nhất	A	B-AP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Khi	N	B-NP	O	O
+thấy	V	B-VP	O	O
+bị	V	B-VP	O	O
+bắn	V	B-VP	O	O
+tiếp	V	B-VP	O	O
+,	CH	O	O	O
+lính	N	B-NP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+bèn	R	O	O	O
+bắn	V	B-VP	O	O
+trả	V	B-VP	O	O
+và	Cc	O	O	O
+tay	N	B-NP	O	O
+súng	N	B-NP	O	O
+kia	P	B-NP	O	O
+trúng	V	B-VP	O	O
+đạn	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nhưng	C	O	O	O
+toán	Ne	B-NP	O	O
+lính	N	B-NP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+không	R	O	O	O
+bắt	V	B-VP	O	O
+được	R	O	O	O
+ai	P	B-NP	O	O
+khác	A	B-AP	O	O
+nữa	R	O	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Khi	N	B-NP	O	O
+đến	V	B-VP	O	O
+được	R	O	O	O
+nơi	N	B-NP	O	O
+người	N	B-NP	O	O
+kia	P	B-NP	O	O
+nằm	V	B-VP	O	O
+toán	Ne	B-NP	O	O
+lính	N	B-NP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+nhận	V	B-VP	O	O
+thấy	V	B-VP	O	O
+người	Ns	B-NP	O	O
+đó	P	B-NP	O	O
+đang	R	O	O	O
+bảo_vệ	V	B-VP	O	O
+các	L	B-NP	O	O
+bệnh_nhân	N	B-NP	O	O
+trong	E	B-PP	O	O
+một	M	B-NP	O	O
+bệnh_viện	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Trên	E	B-PP	O	O
+xác	N	B-NP	O	O
+người	Ns	B-NP	O	O
+phụ_nữ	N	B-NP	O	O
+đó	P	B-NP	O	O
+có	V	B-VP	O	O
+một	M	B-NP	O	O
+khẩu	Nc	B-NP	O	O
+CKC	Ny	B-NP	O	O
+và	Cc	O	O	O
+một	M	B-NP	O	O
+cái	Nc	B-NP	O	O
+túi	N	B-NP	O	O
+vải	N	B-NP	O	O
+bạt	N	B-NP	O	O
+đựng	V	B-VP	O	O
+vài	L	B-NP	O	O
+cuốn	Nc	B-NP	O	O
+sổ	N	B-NP	O	O
+và	Cc	O	O	O
+sách_vở	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Trong	E	B-PP	O	O
+chiến_tranh	N	B-NP	O	O
+nhiệm_vụ	N	B-NP	O	O
+của	E	B-PP	O	O
+tôi	P	B-NP	O	O
+là	V	B-VP	O	O
+kiểm_tra	V	B-VP	O	O
+tất_cả	P	B-NP	O	O
+các	L	B-NP	O	O
+giấy_tờ	N	B-NP	O	O
+,	CH	O	O	O
+tài_liệu	N	B-NP	O	O
+bắt	V	B-VP	O	O
+được	R	O	O	O
+của	E	B-PP	O	O
+đối_phương	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Những	L	B-NP	O	O
+điều	N	B-NP	O	O
+người	Ns	B-NP	O	O
+lính	N	B-NP	O	O
+đó	P	B-NP	O	O
+kể	V	B-VP	O	O
+cho	E	B-PP	O	O
+tôi	P	B-NP	O	O
+nghe	V	B-VP	O	O
+chắc_chắn	A	B-AP	O	O
+là	V	B-VP	O	O
+cái	Ns	B-NP	O	O
+chết	V	B-VP	O	O
+của	E	B-PP	O	O
+người	Ns	B-NP	O	O
+phụ_nữ	N	B-NP	O	O
+có	V	B-VP	O	O
+cuốn	Nc	B-NP	O	O
+nhật_ký	N	B-NP	O	O
+tôi	P	B-NP	O	O
+nhận	V	B-VP	O	O
+được	R	O	O	O
+ít	A	B-AP	O	O
+lâu	A	B-AP	O	O
+sau	N	B-NP	O	O
+khi	N	B-NP	O	O
+chị	Ns	B-NP	O	O
+hi_sinh	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Trong	E	B-PP	O	O
+thời_gian	N	B-NP	O	O
+đó	P	B-NP	O	O
+không	R	O	O	O
+có	V	B-VP	O	O
+một	M	B-NP	O	O
+tài_liệu	N	B-NP	O	O
+nào	P	B-NP	O	O
+khác	A	B-AP	O	O
+giống	A	B-AP	O	O
+như	C	O	O	O
+người	Ns	B-NP	O	O
+lính	N	B-NP	O	O
+mô_tả	V	B-VP	O	O
+,	CH	O	O	O
+vì_thế	C	O	O	O
+tôi	P	B-NP	O	O
+tin	V	B-VP	O	O
+chắc	A	B-AP	O	O
+mình	P	B-NP	O	O
+đã	R	O	O	O
+được	V	B-VP	O	O
+nghe	V	B-VP	O	O
+người	Ns	B-NP	O	O
+lính	N	B-NP	O	O
+nọ	P	B-NP	O	O
+kể	V	B-VP	O	O
+về	E	B-PP	O	O
+cái	Ns	B-NP	O	O
+chết	V	B-VP	O	O
+của	E	B-PP	O	O
+tác_giả	N	B-NP	O	O
+cuốn	Nc	B-NP	O	O
+nhật_ký	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Đó	P	B-NP	O	O
+là	V	B-VP	O	O
+cuốn	Nc	B-NP	O	O
+nhật_ký	N	B-NP	O	O
+thứ	N	B-NP	O	O
+hai	M	B-NP	O	O
+của	E	B-PP	O	O
+bác_sĩ	N	B-NP	O	O
+Đặng	NNP	B-NP	B-PER	O
+Thuỳ	NNP	I-NP	I-PER	O
+Trâm	NNP	I-NP	I-PER	O
+.	CH	O	O	O
+</s>				
+<s>				
+Các	L	B-NP	O	O
+con	Nc	B-NP	O	O
+gái	N	B-NP	O	O
+bà	Ns	B-NP	O	O
+kể	V	B-VP	O	O
+rằng	C	O	O	O
+một	M	B-NP	O	O
+tháng	N	B-NP	O	O
+sau	N	B-NP	O	O
+ngày	N	B-NP	O	O
+cuối_cùng	A	B-AP	O	O
+ghi	V	B-VP	O	O
+trong	E	B-PP	O	O
+cuốn	Nc	B-NP	O	O
+nhật_ký	N	B-NP	O	O
+thứ	N	B-NP	O	O
+hai	M	B-NP	O	O
+thì	C	O	O	O
+Thuỳ	NNP	B-NP	B-PER	O
+Trâm	NNP	I-NP	I-PER	O
+hi_sinh	V	B-VP	O	O
+trong	E	B-PP	O	O
+một	M	B-NP	O	O
+trận	N	B-NP	O	O
+đánh	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Và	Cc	O	O	O
+nhờ	E	B-PP	O	O
+một	M	B-NP	O	O
+người	Ns	B-NP	O	O
+bạn	N	B-NP	O	O
+dẫn	V	B-VP	O	O
+đường	N	B-NP	O	O
+chỉ	V	B-VP	O	O
+nơi	N	B-NP	O	O
+chôn_cất	V	B-VP	O	O
+gia_đình	N	B-NP	O	O
+đã	R	O	O	O
+mang	V	B-VP	O	O
+hài_cốt	N	B-NP	O	O
+chị	Ns	B-NP	O	O
+từ	E	B-PP	O	O
+Quảng_Ngãi	NNP	B-NP	B-LOC	O
+về	R	O	O	O
+vào	E	B-PP	O	O
+năm	N	B-NP	O	O
+1979	M	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Có	V	B-VP	O	O
+đúng	A	B-AP	O	O
+chị	Ns	B-NP	O	O
+nằm	V	B-VP	O	O
+trên	E	B-PP	O	O
+một	M	B-NP	O	O
+dãy	Ne	B-NP	O	O
+núi	N	B-NP	O	O
+cao	A	B-AP	O	O
+ở	E	B-PP	O	O
+miền	N	B-NP	O	O
+tây	N	B-NP	O	O
+Đức_Phổ	NNP	B-NP	B-LOC	O
+?	CH	O	O	O
+</s>				
+<s>				
+Và	Cc	O	O	O
+các	L	B-NP	O	O
+bạn	N	B-NP	O	O
+của	E	B-PP	O	O
+chị	Ns	B-NP	O	O
+có	V	B-VP	O	O
+kể	V	B-VP	O	O
+lại	V	B-VP	O	O
+chị	Ns	B-NP	O	O
+đã	R	O	O	O
+hi_sinh	V	B-VP	O	O
+ra_sao	X	O	O	O
+không	R	O	O	O
+?	CH	O	O	O
+</s>				
+<s>				
+Suốt	A	B-AP	O	O
+35	M	B-NP	O	O
+năm	N	B-NP	O	O
+nay	P	B-NP	O	O
+tôi	P	B-NP	O	O
+vẫn	R	O	O	O
+nghĩ	V	B-VP	O	O
+rằng	C	O	O	O
+chắc_chắn	V	B-VP	O	O
+bác_sĩ	N	B-NP	O	O
+Đặng	NNP	B-NP	B-PER	O
+đã	R	O	O	O
+chết	V	B-VP	O	O
+đúng	A	B-AP	O	O
+như	C	O	O	O
+chị	Ns	B-NP	O	O
+sống	V	B-VP	O	O
+,	CH	O	O	O
+hoàn_toàn	A	B-AP	O	O
+không	R	O	O	O
+vị_kỷ	A	B-AP	O	O
+,	CH	O	O	O
+hoàn_toàn	A	B-AP	O	O
+dâng_hiến	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nếu	C	O	O	O
+tôi	P	B-NP	O	O
+có	R	O	O	O
+xâm_phạm	V	B-VP	O	O
+vào	E	B-PP	O	O
+riêng_tư	A	B-AP	O	O
+của	E	B-PP	O	O
+bà	Ns	B-NP	O	O
+thì	C	O	O	O
+cho_phép	V	B-VP	O	O
+tôi	P	B-NP	O	O
+xin_lỗi	V	B-VP	O	O
+và	Cc	O	O	O
+mong	V	B-VP	O	O
+không	R	O	O	O
+có	V	B-VP	O	O
+điều	N	B-NP	O	O
+gì	P	B-NP	O	O
+xấu	A	B-AP	O	O
+cả	T	O	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Tôi	P	B-NP	O	O
+đã	R	O	O	O
+mang	V	B-VP	O	O
+điều	N	B-NP	O	O
+này	P	B-NP	O	O
+trong	E	B-PP	O	O
+lòng	N	B-NP	O	O
+quá	R	O	O	O
+lâu	A	B-AP	O	O
+và	Cc	O	O	O
+tôi	P	B-NP	O	O
+vẫn	R	O	O	O
+đang	R	O	O	O
+đi	V	B-VP	O	O
+tìm	V	B-VP	O	O
+câu	N	B-NP	O	O
+trả_lời	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nhận	V	B-VP	O	O
+được	R	O	O	O
+thư	N	B-NP	O	O
+của	E	B-PP	O	O
+Fred	NNP	B-NP	B-PER	O
+,	CH	O	O	O
+mẹ	N	B-NP	O	O
+tôi	P	B-NP	O	O
+vội	A	B-AP	O	O
+gọi	V	B-VP	O	O
+điện	V	B-VP	O	O
+hỏi	V	B-VP	O	O
+lại	V	B-VP	O	O
+anh	Ns	B-NP	O	O
+Lê	NNP	B-NP	B-PER	O
+Văn	NNP	I-NP	I-PER	O
+Khương	NNP	I-NP	I-PER	O
+-	CH	O	O	O
+người	N	B-NP	O	O
+cùng	A	B-AP	O	O
+công_tác	V	B-VP	O	O
+trong	E	B-PP	O	O
+bệnh_xá	N	B-NP	B-LOC	O
+Đức_Phổ	NNP	I-NP	I-LOC	O
+về	E	B-PP	O	O
+địa_điểm	N	B-NP	O	O
+chị	N	B-NP	O	O
+tôi	P	B-NP	O	O
+hi_sinh	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Anh	Ns	B-NP	O	O
+cho	V	B-VP	O	O
+biết	V	B-VP	O	O
+nơi	N	B-NP	O	O
+chị	N	B-NP	O	O
+tôi	P	B-NP	O	O
+ngã	V	B-VP	O	O
+xuống	V	B-VP	O	O
+chỉ	R	O	O	O
+cách	V	B-VP	O	O
+bệnh_xá	N	B-NP	O	O
+có	T	O	O	O
+50	M	B-NP	O	O
+m	Nu	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Hôm	N	B-NP	O	O
+đó	P	B-NP	O	O
+anh	Ns	B-NP	O	O
+cũng	R	O	O	O
+đi	V	B-VP	O	O
+công_tác	V	B-VP	O	O
+,	CH	O	O	O
+mãi	R	O	O	O
+hơn	A	B-AP	O	O
+một	M	B-NP	O	O
+tháng	N	B-NP	O	O
+sau	N	B-NP	O	O
+mới	R	O	O	O
+về	V	B-VP	O	O
+và	Cc	O	O	O
+chỉ	R	O	O	O
+được	V	B-VP	O	O
+nghe	V	B-VP	O	O
+kể	V	B-VP	O	O
+lại	V	B-VP	O	O
+rằng	C	O	O	O
+chị	N	B-NP	O	O
+tôi	P	B-NP	O	O
+vừa	R	O	O	O
+ra	V	B-VP	O	O
+khỏi	V	B-VP	O	O
+bệnh_xá	N	B-NP	O	O
+để	E	B-PP	O	O
+đi	V	B-VP	O	O
+công_tác	V	B-VP	O	O
+xuống	V	B-VP	O	O
+đồng_bằng	N	B-NP	O	O
+thì	C	O	O	O
+phát_hiện	V	B-VP	O	O
+có	V	B-VP	O	O
+địch	N	B-NP	O	O
+,	CH	O	O	O
+chị	Ns	B-NP	O	O
+nổ	V	B-VP	O	O
+súng	N	B-NP	O	O
+ngay	T	O	O	O
+báo_hiệu	V	B-VP	O	O
+cho	E	B-PP	O	O
+các	L	B-NP	O	O
+bạn	N	B-NP	O	O
+và	Cc	O	O	O
+chiến_đấu	V	B-VP	O	O
+giữ	V	B-VP	O	O
+chân	N	B-NP	O	O
+chúng	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Mọi	L	B-NP	O	O
+người	N	B-NP	O	O
+thoát	V	B-VP	O	O
+được	R	O	O	O
+hết	R	O	O	O
+,	CH	O	O	O
+toán	Ne	B-NP	O	O
+lính	N	B-NP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+kia	P	B-NP	O	O
+vẫn	R	O	O	O
+nằm	V	B-VP	O	O
+lại	V	B-VP	O	O
+phục	V	B-VP	O	O
+thêm	V	B-VP	O	O
+ba	M	B-NP	O	O
+ngày	N	B-NP	O	O
+nữa	R	O	O	O
+mới	R	O	O	O
+rút_lui	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Chị	N	B-NP	O	O
+tôi	P	B-NP	O	O
+được	V	B-VP	O	O
+đồng_bào	N	B-NP	O	O
+dân_tộc	N	B-NP	O	O
+địa_phương	N	B-NP	O	O
+và	Cc	O	O	O
+đồng_đội	N	B-NP	O	O
+chôn_cất	V	B-VP	O	O
+ngay	T	O	O	O
+tại	E	B-PP	O	O
+nơi	N	B-NP	O	O
+chị	Ns	B-NP	O	O
+ngã	V	B-VP	O	O
+xuống	V	B-VP	O	O
+,	CH	O	O	O
+trên	E	B-PP	O	O
+một	M	B-NP	O	O
+đỉnh	N	B-NP	O	O
+dốc	N	B-NP	O	O
+của	E	B-PP	O	O
+sườn	N	B-NP	O	O
+núi	N	B-NP	B-LOC	O
+Ba_Tơ	NNP	I-NP	I-LOC	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nghe	V	B-VP	O	O
+tôi	P	B-NP	O	O
+kể	V	B-VP	O	O
+lại	V	B-VP	O	O
+những	L	B-NP	O	O
+chi_tiết	N	B-NP	O	O
+ấy	P	B-NP	O	O
+,	CH	O	O	O
+Fred	NNP	B-NP	B-PER	O
+viết	V	B-VP	O	O
+cho	E	B-PP	O	O
+mẹ	N	B-NP	O	O
+tôi	P	B-NP	O	O
+:	CH	O	O	O
+9	M	B-NP	O	O
+g	Nu	B-NP	O	O
+44	M	B-NP	O	O
+,	CH	O	O	O
+thứ_hai	N	B-NP	O	O
+,	CH	O	O	O
+2-5-2005	M	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Thưa	V	B-VP	O	O
+bà	Ns	B-NP	O	O
+Trâm	NNP	B-NP	B-PER	O
+.	CH	O	O	O
+</s>				
+<s>				
+Và	Cc	O	O	O
+giờ	N	B-NP	O	O
+đây	P	B-NP	O	O
+thắc_mắc	N	B-NP	O	O
+của	E	B-PP	O	O
+tôi	P	B-NP	O	O
+đã	R	O	O	O
+được	V	B-VP	O	O
+giải_đáp	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Trận	N	B-NP	O	O
+đánh	V	B-VP	O	O
+mà	C	O	O	O
+người	Ns	B-NP	O	O
+lính	N	B-NP	O	O
+nọ	P	B-NP	O	O
+tả	V	B-VP	O	O
+lại	V	B-VP	O	O
+cho	E	B-PP	O	O
+tôi	P	B-NP	O	O
+đúng	A	B-AP	O	O
+là	C	O	O	O
+điều	N	B-NP	O	O
+đã	R	O	O	O
+xảy	V	B-VP	O	O
+ra	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Con	Nc	B-NP	O	O
+gái	N	B-NP	O	O
+bà	Ns	B-NP	O	O
+đã	R	O	O	O
+một_mình	X	O	O	O
+chiến_đấu	V	B-VP	O	O
+với	E	B-PP	O	O
+120	M	B-NP	O	O
+lính	N	B-NP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+để	E	B-PP	O	O
+bảo_vệ	V	B-VP	O	O
+các	L	B-NP	O	O
+bạn	N	B-NP	O	O
+mình	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Ở	E	B-PP	O	O
+bất_cứ	R	O	O	O
+đất_nước	N	B-NP	O	O
+nào	P	B-NP	O	O
+trên	E	B-PP	O	O
+thế_giới	N	B-NP	O	O
+điều	N	B-NP	O	O
+đó	P	B-NP	O	O
+đều	R	O	O	O
+được	V	B-VP	O	O
+gọi	V	B-VP	O	O
+là	C	O	O	O
+ANH_HÙNG	A	B-AP	O	O
+và	Cc	O	O	O
+những	L	B-NP	O	O
+người	Ns	B-NP	O	O
+anh_hùng	N	B-NP	O	O
+đều	R	O	O	O
+được	V	B-VP	O	O
+tất_cả	P	B-NP	O	O
+mọi	L	B-NP	O	O
+người	N	B-NP	O	O
+tôn_kính	V	B-VP	O	O
+,	CH	O	O	O
+dù	C	O	O	O
+người	Ns	B-NP	O	O
+đó	P	B-NP	O	O
+là	V	B-VP	O	O
+đàn_ông	N	B-NP	O	O
+hay	Cc	O	O	O
+đàn_bà	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Thế_giới	N	B-NP	O	O
+phải	V	B-VP	O	O
+được	V	B-VP	O	O
+biết	V	B-VP	O	O
+về	E	B-PP	O	O
+sự	N	B-NP	O	O
+dũng_cảm	A	B-AP	O	O
+của	E	B-PP	O	O
+con	Nc	B-NP	O	O
+gái	N	B-NP	O	O
+bà	Ns	B-NP	O	O
+và	Cc	O	O	O
+mãi_mãi	R	O	O	O
+học_hỏi	V	B-VP	O	O
+được	R	O	O	O
+điều	N	B-NP	O	O
+gì	P	B-NP	O	O
+đó	P	B-NP	O	O
+từ	E	B-PP	O	O
+tình_yêu	N	B-NP	O	O
+và	Cc	O	O	O
+những	L	B-NP	O	O
+suy_nghĩ	N	B-NP	O	O
+của	E	B-PP	O	O
+chị	Ns	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Hôm_qua	N	B-NP	O	O
+tôi	P	B-NP	O	O
+cùng	Cc	O	O	O
+mẹ	N	B-NP	O	O
+,	CH	O	O	O
+vợ	N	B-NP	O	O
+và	Cc	O	O	O
+con_gái	N	B-NP	O	O
+đi	V	B-VP	O	O
+ăn	V	B-VP	O	O
+tiệm	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Em	N	B-NP	O	O
+trai	N	B-NP	O	O
+tôi	P	B-NP	O	O
+và	Cc	O	O	O
+vợ	N	B-NP	O	O
+nó	P	B-NP	O	O
+cũng	R	O	O	O
+đi	V	B-VP	O	O
+cùng	R	O	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Em_trai	N	B-NP	O	O
+tôi	P	B-NP	O	O
+là	V	B-VP	O	O
+Michael	NNP	B-NP	B-PER	O
+,	CH	O	O	O
+thời_gian	N	B-NP	O	O
+chiến_tranh	N	B-NP	O	O
+nó	P	B-NP	O	O
+rất	R	O	O	O
+nóng_lòng	A	B-AP	O	O
+muốn	V	B-VP	O	O
+được	V	B-VP	O	O
+sang	V	B-VP	O	O
+VN	NNP	B-NP	B-LOC	O
+tham_chiến	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nhưng	C	O	O	O
+cha	N	B-NP	O	O
+tôi	P	B-NP	O	O
+,	CH	O	O	O
+một	M	B-NP	O	O
+sĩ_quan	N	B-NP	O	O
+hải_quân	N	B-NP	O	O
+cao_cấp	A	B-AP	O	O
+,	CH	O	O	O
+lại	R	O	O	O
+không	R	O	O	O
+muốn	V	B-VP	O	O
+đưa	V	B-VP	O	O
+cả	P	B-NP	O	O
+ba	M	B-NP	O	O
+con	Nc	B-NP	O	O
+trai	N	B-NP	O	O
+sang	V	B-VP	O	O
+VN	NNP	B-NP	B-LOC	O
+.	CH	O	O	O
+</s>				
+<s>				
+Lúc	N	B-NP	O	O
+đó	P	B-NP	O	O
+anh	Ns	B-NP	O	O
+trai	N	B-NP	O	O
+tôi	P	B-NP	O	O
+và	Cc	O	O	O
+tôi	P	B-NP	O	O
+đã	R	O	O	O
+ở	V	B-VP	O	O
+VN	NNP	B-NP	B-LOC	O
+rồi	R	O	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Vì_thế	C	O	O	O
+ông	Ns	B-NP	O	O
+đã	R	O	O	O
+dùng	V	B-VP	O	O
+các	L	B-NP	O	O
+thế_lực	N	B-NP	O	O
+chính_trị	A	B-AP	O	O
+của	E	B-PP	O	O
+mình	P	B-NP	O	O
+để	E	B-PP	O	O
+Michael	NNP	B-NP	B-PER	O
+không	R	O	O	O
+tham_gia	V	B-VP	O	O
+cuộc_chiến	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Michael	NNP	B-NP	B-PER	O
+rất	R	O	O	O
+tức_giận	V	B-VP	O	O
+vì	E	B-PP	O	O
+chuyện	N	B-NP	O	O
+ấy	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nó	P	B-NP	O	O
+vẫn	R	O	O	O
+tiếp_tục	V	B-VP	O	O
+trở_thành	V	B-VP	O	O
+một	M	B-NP	O	O
+sĩ_quan	N	B-NP	O	O
+quân_đội	N	B-NP	O	O
+và	Cc	O	O	O
+mới	R	O	O	O
+về	V	B-VP	O	O
+hưu	V	B-VP	O	O
+năm_ngoái	N	B-NP	O	O
+với	E	B-PP	O	O
+hàm	N	B-NP	O	O
+đại_tá	N	B-NP	O	O
+sau	N	B-NP	O	O
+34	M	B-NP	O	O
+năm	N	B-NP	O	O
+phục_vụ	V	B-VP	O	O
+trong	E	B-PP	O	O
+không_lực	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Hôm_qua	N	B-NP	O	O
+lúc	N	B-NP	O	O
+ở	E	B-PP	O	O
+tiệm	N	B-NP	O	O
+ăn	V	B-VP	O	O
+nó	P	B-NP	O	O
+xẵng	A	B-AP	O	O
+giọng	N	B-NP	O	O
+nói	V	B-VP	O	O
+với	E	B-PP	O	O
+tôi	P	B-NP	O	O
+rằng	C	O	O	O
+thoạt_tiên	N	B-NP	O	O
+nó	P	B-NP	O	O
+rất	R	O	O	O
+phản_đối	V	B-VP	O	O
+những	L	B-NP	O	O
+việc	N	B-NP	O	O
+mà	C	O	O	O
+Robert	NNP	B-NP	B-PER	O
+và	Cc	O	O	O
+tôi	P	B-NP	O	O
+làm	V	B-VP	O	O
+đối_với	E	B-PP	O	O
+hai	M	B-NP	O	O
+cuốn	Nc	B-NP	O	O
+nhật_ký	N	B-NP	O	O
+của	E	B-PP	O	O
+con	Nc	B-NP	O	O
+gái	N	B-NP	O	O
+bà	Ns	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nó	P	B-NP	O	O
+tức_giận	V	B-VP	O	O
+trước	E	B-PP	O	O
+hành_động	N	B-NP	O	O
+của	E	B-PP	O	O
+chúng_tôi	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Tôi	P	B-NP	O	O
+hiểu	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Dẫu_sao	C	O	O	O
+nó	P	B-NP	O	O
+cũng	R	O	O	O
+chưa	R	O	O	O
+từng	R	O	O	O
+phải	V	B-VP	O	O
+nếm	V	B-VP	O	O
+vị	N	B-NP	O	O
+mặn	A	B-AP	O	O
+của	E	B-PP	O	O
+chiến_tranh	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nó	P	B-NP	O	O
+chưa	R	O	O	O
+từng	R	O	O	O
+biết	V	B-VP	O	O
+đến	E	B-PP	O	O
+cảm_giác	N	B-NP	O	O
+nát	A	B-AP	O	O
+tim	N	B-NP	O	O
+khi	N	B-NP	O	O
+nhìn	V	B-VP	O	O
+thấy	V	B-VP	O	O
+những	L	B-NP	O	O
+người	Ns	B-NP	O	O
+lính	N	B-NP	O	O
+ngã	V	B-VP	O	O
+xuống	V	B-VP	O	O
+trên	E	B-PP	O	O
+trận_địa	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Vì_thế	C	O	O	O
+nó	P	B-NP	O	O
+mới	R	O	O	O
+tức_giận	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nhưng	C	O	O	O
+trong	N	B-NP	O	O
+bữa	N	B-NP	O	O
+ăn	V	B-VP	O	O
+với	E	B-PP	O	O
+mẹ	N	B-NP	O	O
+tôi	P	B-NP	O	O
+nó	P	B-NP	O	O
+hiểu	V	B-VP	O	O
+ra	V	B-VP	O	O
+hành_động	N	B-NP	O	O
+của	E	B-PP	O	O
+chúng_tôi	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Một	M	B-NP	O	O
+người	N	B-NP	O	O
+mẹ	N	B-NP	O	O
+nhất_thiết	R	O	O	O
+phải	V	B-VP	O	O
+được	V	B-VP	O	O
+biết	V	B-VP	O	O
+về	E	B-PP	O	O
+cuộc_đời	N	B-NP	O	O
+và	Cc	O	O	O
+những	L	B-NP	O	O
+suy_nghĩ	N	B-NP	O	O
+của	E	B-PP	O	O
+con	Nc	B-NP	O	O
+gái	N	B-NP	O	O
+mình	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Vậy_là	C	O	O	O
+nó	P	B-NP	O	O
+chấp_nhận	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Tôi	P	B-NP	O	O
+nghĩ	V	B-VP	O	O
+thật	T	O	O	O
+buồn	A	B-AP	O	O
+biết_bao	R	O	O	O
+vì	E	B-PP	O	O
+nó	P	B-NP	O	O
+không	R	O	O	O
+biết	V	B-VP	O	O
+được	R	O	O	O
+Thuỳ	NNP	B-NP	B-PER	O
+Trâm	NNP	I-NP	I-PER	O
+đã	R	O	O	O
+dạy	V	B-VP	O	O
+chúng_ta	P	B-NP	O	O
+những	L	B-NP	O	O
+gì	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nó	P	B-NP	O	O
+không	R	O	O	O
+nhìn	V	B-VP	O	O
+thấy	V	B-VP	O	O
+những	L	B-NP	O	O
+gì	P	B-NP	O	O
+tôi	P	B-NP	O	O
+đã	R	O	O	O
+nhìn	V	B-VP	O	O
+thấy	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nó	P	B-NP	O	O
+và	Cc	O	O	O
+biết_bao_nhiêu	X	O	O	O
+người	N	B-NP	O	O
+khác	A	B-AP	O	O
+chỉ	R	O	O	O
+nhìn	V	B-VP	O	O
+thấy	V	B-VP	O	O
+vầng	N	B-NP	O	O
+hào_quang	N	B-NP	O	O
+của	E	B-PP	O	O
+chiến_tranh	N	B-NP	O	O
+mà	C	O	O	O
+không	R	O	O	O
+cảm	V	B-VP	O	O
+thấy	V	B-VP	O	O
+sai_trái	A	B-AP	O	O
+đến	E	B-PP	O	O
+thế_nào	P	B-NP	O	O
+khi	N	B-NP	O	O
+một	M	B-NP	O	O
+dân_tộc	N	B-NP	O	O
+này	P	B-NP	O	O
+đi	V	B-VP	O	O
+xâm_lược	V	B-VP	O	O
+một	M	B-NP	O	O
+đất_nước	N	B-NP	O	O
+khác	A	B-AP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Biết_bao	R	O	O	O
+cuộc_đời	N	B-NP	O	O
+đã	R	O	O	O
+bị	V	B-VP	O	O
+huỷ_hoại	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Nhưng	C	O	O	O
+nó	P	B-NP	O	O
+là	V	B-VP	O	O
+một	M	B-NP	O	O
+người	Ns	B-NP	O	O
+lính	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Những	L	B-NP	O	O
+lúc	N	B-NP	O	O
+không	R	O	O	O
+hành_nghề	V	B-VP	O	O
+luật_sư	N	B-NP	O	O
+hay	Cc	O	O	O
+khoa_học	N	B-NP	O	O
+,	CH	O	O	O
+tôi	P	B-NP	O	O
+trở_thành	V	B-VP	O	O
+một	M	B-NP	O	O
+người	N	B-NP	O	O
+làm	V	B-VP	O	O
+vườn	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Những	L	B-NP	O	O
+lúc	N	B-NP	O	O
+làm_việc	V	B-VP	O	O
+trong	E	B-PP	O	O
+vườn	N	B-NP	O	O
+chăm_sóc	V	B-VP	O	O
+những	L	B-NP	O	O
+bông	Nc	B-NP	O	O
+hoa	N	B-NP	O	O
+,	CH	O	O	O
+tôi	P	B-NP	O	O
+có_thể	R	O	O	O
+nghĩ	V	B-VP	O	O
+triền_miên	A	B-AP	O	O
+hàng	R	O	O	O
+giờ	N	B-NP	O	O
+về	E	B-PP	O	O
+những	L	B-NP	O	O
+chuyện	N	B-NP	O	O
+như	C	O	O	O
+thế	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Hôm_qua	N	B-NP	O	O
+những	L	B-NP	O	O
+ý_nghĩ	N	B-NP	O	O
+của	E	B-PP	O	O
+tôi	P	B-NP	O	O
+tràn_đầy	A	B-AP	O	O
+về	E	B-PP	O	O
+Thuỳ	NNP	B-NP	B-PER	O
+Trâm	NNP	I-NP	I-PER	O
+.	CH	O	O	O
+</s>				
+<s>				
+Tôi	P	B-NP	O	O
+vẫn	R	O	O	O
+thắc_mắc	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Và	Cc	O	O	O
+hôm_nay	N	B-NP	O	O
+,	CH	O	O	O
+một	M	B-NP	O	O
+bông	Nc	B-NP	O	O
+hoa	N	B-NP	O	O
+đẹp	A	B-AP	O	O
+từ	E	B-PP	O	O
+Hà_Nội	NNP	B-NP	B-LOC	O
+đã	R	O	O	O
+trả_lời	V	B-VP	O	O
+bao	N	B-NP	O	O
+câu	N	B-NP	O	O
+hỏi	V	B-VP	O	O
+ngày	N	B-NP	O	O
+hôm_qua	N	B-NP	O	O
+của	E	B-PP	O	O
+tôi	P	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Thuỳ	NNP	B-NP	B-PER	O
+Trâm	NNP	I-NP	I-PER	O
+đúng	A	B-AP	O	O
+là	C	O	O	O
+người	N	B-NP	O	O
+như	C	O	O	O
+tôi	P	B-NP	O	O
+nghĩ	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Chị	Ns	B-NP	O	O
+đã	R	O	O	O
+chết	V	B-VP	O	O
+đúng	A	B-AP	O	O
+như	C	O	O	O
+tôi	P	B-NP	O	O
+hình_dung	V	B-VP	O	O
+qua	E	B-PP	O	O
+câu_chuyện	N	B-NP	O	O
+của	E	B-PP	O	O
+tôi	P	B-NP	O	O
+với	E	B-PP	O	O
+người	Ns	B-NP	O	O
+lính	N	B-NP	O	O
+nọ	P	B-NP	O	O
+bao_nhiêu	P	B-NP	O	O
+năm	N	B-NP	O	O
+về	E	B-PP	O	O
+trước	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Và	Cc	O	O	O
+giờ	N	B-NP	O	O
+đây	P	B-NP	O	O
+tôi	P	B-NP	O	O
+đã	R	O	O	O
+biết	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Và	Cc	O	O	O
+bật	V	B-VP	O	O
+khóc	V	B-VP	O	O
+để	E	B-PP	O	O
+biết	V	B-VP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Người	Ns	B-NP	O	O
+phụ_nữ	N	B-NP	O	O
+-	CH	O	O	O
+tay	N	B-NP	O	O
+súng	N	B-NP	O	O
+duy_nhất	A	B-AP	O	O
+chiến_đấu	V	B-VP	O	O
+với	E	B-PP	O	O
+120	M	B-NP	O	O
+lính	N	B-NP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+ấy	P	B-NP	O	O
+là	V	B-VP	O	O
+ai	P	B-NP	O	O
+?	CH	O	O	O
+</s>				
+<s>				
+Là	V	B-VP	O	O
+chính	T	O	O	O
+chị	Ns	B-NP	O	O
+Thuỳ	NNP	B-NP	B-PER	O
+Trâm	NNP	I-NP	I-PER	O
+hay	Cc	O	O	O
+là	V	B-VP	O	O
+một	M	B-NP	O	O
+người	Ns	B-NP	O	O
+con_gái	N	B-NP	O	O
+nào	P	B-NP	O	O
+khác	A	B-AP	O	O
+thì	C	O	O	O
+cuộc	N	B-NP	O	O
+chiến	V	B-VP	O	O
+bi_tráng	A	B-AP	O	O
+ấy	P	B-NP	O	O
+vẫn	R	O	O	O
+làm	V	B-VP	O	O
+xúc_động	V	B-VP	O	O
+người	N	B-NP	O	O
+đọc	V	B-VP	O	O
+hôm_nay	N	B-NP	O	O
+.	CH	O	O	O
+</s>				
+<s>				
+Và	Cc	O	O	O
+dù	C	O	O	O
+là	T	O	O	O
+ai	P	B-NP	O	O
+thì	C	O	O	O
+niềm	N	B-NP	O	O
+tin	V	B-VP	O	O
+của	E	B-PP	O	O
+người	Ns	B-NP	O	O
+cựu_chiến_binh	N	B-NP	O	O
+Mỹ	NNP	B-NP	B-LOC	O
+vẫn	R	O	O	O
+nguyên_vẹn	A	B-AP	O	O
+thế	P	B-NP	O	O
+-	CH	O	O	O
+chị	Ns	B-NP	O	O
+Thuỳ	NNP	B-NP	B-PER	O
+Trâm	NNP	I-NP	I-PER	O
+đã	R	O	O	O
+chết	V	B-VP	O	O
+đúng	A	B-AP	O	O
+như	C	O	O	O
+chị	Ns	B-NP	O	O
+sống	V	B-VP	O	O
+,	CH	O	O	O
+hoàn_toàn	A	B-AP	O	O
+dâng_hiến	V	B-VP	O	O
+...	CH	O	O	O
+</s>				
+<s>				
+Dâng_hiến	V	B-VP	O	O
+ngay_cả	T	O	O	O
+khi	N	B-NP	O	O
+chị	Ns	B-NP	O	O
+mất	V	B-VP	O	O
+đã	R	O	O	O
+35	M	B-NP	O	O
+năm	N	B-NP	O	O
+...	CH	O	O	O
+</s>				
+
