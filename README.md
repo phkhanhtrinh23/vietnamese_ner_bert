@@ -3,7 +3,7 @@
 ## Introductions
 This is a Pytorch implementation of Named Entity Recognition (NER) for Vietnamese. Pretrained model from [BERT Hugging Face](https://huggingface.co/bert-base-multilingual-cased) and [Underthesea](https://github.com/undertheseanlp/underthesea) Toolkit for sentence segmenttation to pre-process input raw text is used.
 
-<img src="./images/model_architecture.PNG"/>
+<img src="./images/architecture.png"/>
 
 ## Installation
 Requirements:
