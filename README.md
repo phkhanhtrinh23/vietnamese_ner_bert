@@ -74,8 +74,6 @@ The overall performance of the model on validation dataset:
 |---------------------|------------|------------|------------|------------|------------|-----------|
 |                     | O          | MISC       | PER        | ORG        | LOC        | F1-Score IOB-tag   |
 | BERT                |  99.79%    |  95.87%    |  96.66%    |  84.78%    |  93.89%    |  **92.43%**   |
-| BERT + LSTM        |  %    |  %    |  %    |  %    |  %    |  %   |
-| BERT + feats + LSTM |  %    |  %    |  %    |  %    |  %    |  %   |
 
 ## Credit
 - [datntt1997](https://github.com/datnnt1997)
